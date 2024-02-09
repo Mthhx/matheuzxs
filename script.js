@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", function() {
   if(meuBotao){
       meuBotao.onclick = function() {
         // Abrir o link do site quando o botão for clicado
-        window.open("https://pt.pornhub.com/", "_blank");
+        window.open("https://www.xvideos.com/", "_blank");
       };
   } else {
       console.error("Elemento com ID 'meuBotao' não encontrado.");
